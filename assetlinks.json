@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.mohit.webtoapp",
+    "sha256_cert_fingerprints":
+    ["E9:40:1F:8A:30:FC:D1:D3:59:B6:57:26:9E:3A:19:B5:05:DC:6C:C8:AC:B3:7D:02:32:CB:A0:32:EB:86:8F:5C"]
+  }
+}]
